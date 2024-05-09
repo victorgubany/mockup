@@ -147,6 +147,9 @@
         <span class="copy">
             © Copyright 2024 | Todos os direitos reservados.
         </span>
+        <span class="copy">
+            VICTOR GUBANY SENA
+        </span>
     </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
