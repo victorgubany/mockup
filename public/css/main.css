@@ -1,0 +1,165 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+.generalForm {
+    color: white;
+}
+/* Header */
+.selectHeader {
+    color: #ffffff;
+    border: 2px solid;
+    border-color: #5086af;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #141c24;
+    background-image: url("public\imgs\globo.png");
+    font-size: 0.8rem;
+    font-weight: 300;
+    outline: none;
+    font-family: "Inter";
+}
+.selectItemHeader {
+    color: #ffffff;
+    background-color: #141c24;
+    font-size: 0.8rem;
+    font-weight: 300;
+    font-family: "Inter";
+}
+.headerLetter {
+    text-decoration: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.626);
+    font-size: 0.8rem;
+    font-weight: 300;
+    font-family: "Inter";
+}
+.headerLetter:hover {
+    color: #ffffff;
+}
+/* black section from footer */
+.bottomFooterLetterLogo {
+    font-size: 0.85rem;
+    text-decoration: none;
+    outline: none;
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Inter";
+    line-height: normal;
+}
+.bottomFooterLetter {
+    font-size: 0.85rem;
+    text-decoration: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.626);
+    font-weight: 200;
+    font-family: "Inter";
+    line-height: normal;
+}
+.bottomFooterLetter:hover {
+    color: #ffffff;
+}
+.footer {
+    background-color: #0f0f0f;
+    color: white;
+}
+.titleFooter {
+    border-style: solid;
+    border-width: 0 0 0.15vw 0;
+    border-color: #00cfef;
+}
+.copy {
+    color: #797979;
+    font-size: 0.85rem;
+}
+/* blue section from footer */
+.formFooter {
+    background-color: transparent;
+    border: 0.1vw solid white;
+    border-radius: 3px;
+    outline: none;
+    width: 100%;
+    color: white;
+    font-size: 0.875rem;
+    font-weight: 300;
+    font-family: "Inter";
+}
+.formFooter::placeholder {
+    color: white;
+}
+.submitFormFooter {
+    background-color: #00cfef;
+    color: white;
+    border: 0.1vw solid transparent;
+    border-radius: 3px;
+}
+.specialLetterFooter {
+    color: #00cfef;
+    font-size: 1rem;
+}
+.titleFooter1 {
+    font-weight: 800;
+    font-size: 2rem;
+    font-family: "Inter";
+}
+.subTitleFooter1 {
+    font-size: 1.125rem;
+    font-weight: 300;
+    font-family: "Inter";
+}
+.titleWithDecoration {
+    font-family: "Dancing Script", cursive;
+    font-size: 3rem;
+}
+.bottomFooterTitle {
+    color: white;
+    font-weight: 300;
+}
+.navTitle {
+    color: white;
+}
+.btnCard {
+    background-color: #00cfef;
+    color: black;
+    padding: auto;
+    width: 100%;
+    border-style: solid;
+    border-width: 0rem;
+    border-radius: 5px;
+}
+.btnCard:hover {
+    background-color: #008b9a;
+    color: white;
+}
+.fontHowManyYears {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 100;
+    font-size: 2rem;
+}
+.strong {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 600;
+}
+.weak {
+    color: rgba(0, 0, 0, 0.6);
+}
+.persona {
+    height: 10vh;
+}
+.imgPromo {
+    width: 40vw;
+}
+.segmentos {
+    text-decoration: none;
+    outline: none;
+    background-color: #00cfef;
+    border: 0.1rem solid transparent;
+    color: black;
+    width: 100%;
+    border-radius: 5px;
+    height: 5vh;
+}
+.verMais {
+    color: black;
+    text-decoration: none;
+    outline: none;
+}
